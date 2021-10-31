@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "50597200617",
+    "project_id": "wansan-road",
+    "storage_bucket": "wansan-road.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50597200617:android:5e90ff050b36e06021a678",
+        "android_client_info": {
+          "package_name": "com.leegiseong.wansanroad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50597200617-uufntf2418vrodhlvbkg0qpno34ai6rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leegiseong.wansanroad",
+            "certificate_hash": "64955f56888f6547ebfe50d3ec8427f8bd5e123c"
+          }
+        },
+        {
+          "client_id": "50597200617-pm2logo6m2a3shah33bsr03stulthc6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaibXGPwlVQ66HmSynsoOdmaHOrrq9kxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50597200617-pm2logo6m2a3shah33bsr03stulthc6l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50597200617-et2qj44quj0q2u9echd3j9n3fqgekmkg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.leegiseong.wansanroad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
